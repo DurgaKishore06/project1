@@ -1,0 +1,95 @@
+body{
+	background-image: url(r4.jpg);
+	background-size: cover;
+	opacity: 2px;
+	padding-top: 20px;
+}
+.profile{
+	background: black;
+}
+
+.head{
+	font-family:'Noto Color Emoji';
+	font-size:50px;
+	margin-top: -100px;
+	color:  #cc2900;
+	margin-top: 100px;
+	text-align: left;
+}
+.head3,
+.head4,
+.head12,
+.award{
+	font-family:'Noto Color Emoji';
+	font-size:50px;
+	margin-top: -100px;
+	color:  #cc2900;
+	margin-top: 40px;
+	text-align: left;
+}
+.header{
+	font-size: 30px;
+	font-family: Georgia;
+	color: solid black;
+
+}
+.para{
+	font-size: 20px;
+	color: #737373;
+	font-family: verdana;
+}
+/*.head4{
+	font-family: Times new roman;
+	font-size: 40px;
+	margin-top: 10px;
+	color: dark black;*/
+}
+.head5{
+	font-family: Georgia;
+	color: solid black;
+	font-size: 30px;
+}
+.head6{
+	font-family: Georgia;
+	color: #737373;
+	font-size: 25px;
+}
+.head8{
+	font-size: 15px;
+	font-family: verdana;
+	color: solid black;
+	
+}
+.para2{
+	font-size: 15;
+}
+.social{
+	padding: 10px;
+	margin-top: 30px;
+}
+.head10{
+	font-size: 30px;
+	margin-top: 100px;
+	margin-bottom: 10px;
+}
+.fa-ul mb-0{
+	font-size: 100px;
+}
+.list,
+.trophy{
+	margin-top: 30px;
+	font-size: 20px;
+}
+.icons{
+	margin-top: 30px;
+}
+
+p{
+	font-size: 20px;
+
+}
+.college{
+	font-size: 30px;
+}
+
+
